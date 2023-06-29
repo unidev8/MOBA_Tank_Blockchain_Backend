@@ -1,0 +1,103 @@
+[
+  {
+    "id": 0,
+    "name": "JLT5 Mastadon",
+    "image": "https://ipfs.babylonswap.finance/ipfs/QmWuopLyLpE5E3jSmuZsxoCaSw6yYAsnrPNJjLLwZBND8T",
+    "description": "light tank",
+    "health": 80,
+    "fireRate": 110,
+    "firePower": 2000,
+    "speed": 700,
+    "healthAdd": 10,
+    "fireRateAdd": 5,
+    "firePowerAdd": 200,
+    "speedAdd": 20,
+    "price": 1000
+  },
+  {
+    "id": 1,
+    "name": "HY-3 Deluge",
+    "image": "https://ipfs.babylonswap.finance/ipfs/QmVB2SeNAzTyCL21G2ZdWrHvzgwFErib2WiDzhgX9ci5xA",
+    "description": "medium tank",
+    "health": 100,
+    "fireRate": 120,
+    "firePower": 2500,
+    "speed": 600,
+    "healthAdd": 10,
+    "fireRateAdd": 5,
+    "firePowerAdd": 100,
+    "speedAdd": 20,
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "name": "TGO0 Centurion",
+    "image": "https://ipfs.babylonswap.finance/ipfs/QmQy5qqbiyaqhthPesgTuqzZco3ryG8B5XBVgKdn18U6Sp",
+    "description": "heavy tank",
+    "health": 130,
+    "fireRate": 200,
+    "firePower": 4000,
+    "speed": 600,
+    "healthAdd": 10,
+    "fireRateAdd": 5,
+    "firePowerAdd": 200,
+    "speedAdd": 20,
+    "price": 1400
+  },
+  {
+    "id": 3,
+    "name": "BHV3P Creature",
+    "image": "https://ipfs.babylonswap.finance/ipfs/Qmd9Sad426bh4smEpyAE5gz3US9BX98dCuwnidFcUhu3p9",
+    "description": "medium tank",
+    "health": 100,
+    "fireRate": 250,
+    "firePower": 5000,
+    "speed": 600,
+    "healthAdd": 10,
+    "fireRateAdd": 5,
+    "firePowerAdd": 200,
+    "speedAdd": 20,
+    "price": 1600
+  },
+  {
+    "id": 4,
+    "name": "TGV0 Julius",
+    "image": "https://ipfs.babylonswap.finance/ipfs/QmbdC3eZWSWiPF6PqbPQUvfigF6wWZL1ThmZwxBEctbRbF",
+    "description": "light tank",
+    "health": 100,
+    "fireRate": 80,
+    "firePower": 1600,
+    "speed": 600,
+    "healthAdd": 10,
+    "fireRateAdd": 3,
+    "firePowerAdd": 100,
+    "speedAdd": 20,
+    "price": 2000
+  },
+  {
+    "id": 5,
+    "name": "L-56 Reaper",
+    "image": "https://ipfs.babylonswap.finance/ipfs/QmW41PQzzyF8rWwajz9TzYXJejBJQCJsMkhW4xgkjy2uQ7",
+    "description": "heavy tank",
+    "health": 150,
+    "fireRate": 300,
+    "firePower": 6000,
+    "speed": 550,
+    "healthAdd": 12,
+    "fireRateAdd": 5,
+    "firePowerAdd": 300,
+    "speedAdd": 20,
+    "price": 2000
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
